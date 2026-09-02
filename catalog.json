@@ -1,0 +1,1852 @@
+[
+  {
+    "id": "ex-01",
+    "n": 1,
+    "title": "כתר מלך בחמישה סגנונות",
+    "note": "זמנים: SDXL יציב ~40 שניות/תמונה ב-1024. FLUX Q4 ריצה ראשונה **270 שניות** ל-1024/20 steps (כולל המתנה בתור). Z-Image דרך MCP ~20 שניות.",
+    "finals": [
+      {
+        "web": "web/ex-01/ex-01-crown-01-toy-box-final.jpg",
+        "original": "originals/ex-01/ex-01-crown-01-toy-box-final.png",
+        "alt": "ex-01-crown-01-toy-box-final"
+      },
+      {
+        "web": "web/ex-01/ex-01-crown-06-power-card-final.jpg",
+        "original": "originals/ex-01/ex-01-crown-06-power-card-final.png",
+        "alt": "ex-01-crown-06-power-card-final"
+      },
+      {
+        "web": "web/ex-01/ex-01-crown-08-bedtime-story-final.jpg",
+        "original": "originals/ex-01/ex-01-crown-08-bedtime-story-final.png",
+        "alt": "ex-01-crown-08-bedtime-story-final"
+      },
+      {
+        "web": "web/ex-01/ex-01-crown-11-emperors-clothes-final.jpg",
+        "original": "originals/ex-01/ex-01-crown-11-emperors-clothes-final.png",
+        "alt": "ex-01-crown-11-emperors-clothes-final"
+      },
+      {
+        "web": "web/ex-01/ex-01-crown-12-the-die-final.jpg",
+        "original": "originals/ex-01/ex-01-crown-12-the-die-final.png",
+        "alt": "ex-01-crown-12-the-die-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-01/c-ex-01-crown-01-toy-box-flux-lock2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-01-crown-01-toy-box-flux-lock2-seed1101"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-01-toy-box-lock2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-01-crown-01-toy-box-lock2-seed1101"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-01-toy-box-lock2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-01-crown-01-toy-box-lock2-seed2202"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-01-toy-box-zimage-seed1101.jpg",
+        "original": null,
+        "alt": "ex-01-crown-01-toy-box-zimage-seed1101"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-01-toy-box-zimage-seed2202.jpg",
+        "original": null,
+        "alt": "ex-01-crown-01-toy-box-zimage-seed2202"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-06-ip055-seed1101.jpg",
+        "original": null,
+        "alt": "ex-01-crown-06-ip055-seed1101"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-06-ip055-seed2202.jpg",
+        "original": null,
+        "alt": "ex-01-crown-06-ip055-seed2202"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-06-power-card-base-seed1101.jpg",
+        "original": null,
+        "alt": "ex-01-crown-06-power-card-base-seed1101"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-06-power-card-flux-lock2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-01-crown-06-power-card-flux-lock2-seed1101"
+      },
+      {
+        "web": "web/ex-01/c-ex-01-crown-06-power-card-flux-seed1101.jpg",
+        "original": null,
+        "alt": "ex-01-crown-06-power-card-flux-seed1101"
+      }
+    ]
+  },
+  {
+    "id": "ex-02",
+    "n": 2,
+    "title": "מצילום חפץ לארט: הקוביות",
+    "note": "**Category:** props / img2img. Photo of a real component -> illustrated component",
+    "finals": [
+      {
+        "web": "web/ex-02/ex-02-crown-final.jpg",
+        "original": "originals/ex-02/ex-02-crown-final.png",
+        "alt": "ex-02-crown-final"
+      },
+      {
+        "web": "web/ex-02/ex-02-dice-final.jpg",
+        "original": "originals/ex-02/ex-02-dice-final.png",
+        "alt": "ex-02-dice-final"
+      },
+      {
+        "web": "web/ex-02/ex-02-pouches-final.jpg",
+        "original": "originals/ex-02/ex-02-pouches-final.png",
+        "alt": "ex-02-pouches-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-02/c-ex-02-crown-i2i-d080-seed1101.jpg",
+        "original": null,
+        "alt": "ex-02-crown-i2i-d080-seed1101"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-crown-i2i-d080-seed2202.jpg",
+        "original": null,
+        "alt": "ex-02-crown-i2i-d080-seed2202"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-dice-i2i-d060-seed1101.jpg",
+        "original": null,
+        "alt": "ex-02-dice-i2i-d060-seed1101"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-dice-i2i-d075-seed1101.jpg",
+        "original": null,
+        "alt": "ex-02-dice-i2i-d075-seed1101"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-dice-i2i-d080-final-seed2202.jpg",
+        "original": null,
+        "alt": "ex-02-dice-i2i-d080-final-seed2202"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-dice-i2i-d080-final-seed3303.jpg",
+        "original": null,
+        "alt": "ex-02-dice-i2i-d080-final-seed3303"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-dice-i2i-d080-seed1101.jpg",
+        "original": null,
+        "alt": "ex-02-dice-i2i-d080-seed1101"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-dice-i2i-d080-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-02-dice-i2i-d080-v2-seed1101"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-dice-i2i-d080-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-02-dice-i2i-d080-v2-seed2202"
+      },
+      {
+        "web": "web/ex-02/c-ex-02-dice-i2i-d085-ip050-seed1101.jpg",
+        "original": null,
+        "alt": "ex-02-dice-i2i-d085-ip050-seed1101"
+      }
+    ]
+  },
+  {
+    "id": "ex-03",
+    "n": 3,
+    "title": "אייקון בשני רגיסטרים: flat ו-rich",
+    "note": "**Category:** icons. Three new subjects (bread, cheese, olive) x two registers",
+    "finals": [
+      {
+        "web": "web/ex-03/ex-03-icon-bread-flat-final.jpg",
+        "original": "originals/ex-03/ex-03-icon-bread-flat-final.png",
+        "alt": "ex-03-icon-bread-flat-final"
+      },
+      {
+        "web": "web/ex-03/ex-03-icon-bread-rich-final.jpg",
+        "original": "originals/ex-03/ex-03-icon-bread-rich-final.png",
+        "alt": "ex-03-icon-bread-rich-final"
+      },
+      {
+        "web": "web/ex-03/ex-03-icon-cheese-flat-final.jpg",
+        "original": "originals/ex-03/ex-03-icon-cheese-flat-final.png",
+        "alt": "ex-03-icon-cheese-flat-final"
+      },
+      {
+        "web": "web/ex-03/ex-03-icon-cheese-rich-final.jpg",
+        "original": "originals/ex-03/ex-03-icon-cheese-rich-final.png",
+        "alt": "ex-03-icon-cheese-rich-final"
+      },
+      {
+        "web": "web/ex-03/ex-03-icon-olive-flat-final.jpg",
+        "original": "originals/ex-03/ex-03-icon-olive-flat-final.png",
+        "alt": "ex-03-icon-olive-flat-final"
+      },
+      {
+        "web": "web/ex-03/ex-03-icon-olive-rich-final.jpg",
+        "original": "originals/ex-03/ex-03-icon-olive-rich-final.png",
+        "alt": "ex-03-icon-olive-rich-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-fam-seed1101.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-fam-seed1101"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-fam-seed2202.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-fam-seed2202"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-i2i-seed1101.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-i2i-seed1101"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-i2i-seed2202.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-i2i-seed2202"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-neg2-seed3303.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-neg2-seed3303"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-pair-seed1101.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-pair-seed1101"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-pair-seed2202.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-pair-seed2202"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-pair68-seed1101.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-pair68-seed1101"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-pair68-seed2202.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-pair68-seed2202"
+      },
+      {
+        "web": "web/ex-03/c-ex-03-icon-bread-flat-pair68-seed3303.jpg",
+        "original": null,
+        "alt": "ex-03-icon-bread-flat-pair68-seed3303"
+      }
+    ]
+  },
+  {
+    "id": "ex-04",
+    "n": 4,
+    "title": "סט אייקוני RPG בסגנון החדש",
+    "note": "this is the first exercise delivered entirely on the local box, with no cloud fallback. `flux1-kontext-dev` has appeared on the G5, which is one of the three unlocks ex-01 finding 15 said were needed, and it changes the answer to the question the package keeps asking.",
+    "finals": [
+      {
+        "web": "web/ex-04/ex-04-rpg-coin-pouch-final.webp",
+        "original": "originals/ex-04/ex-04-rpg-coin-pouch-final.png",
+        "alt": "ex-04-rpg-coin-pouch-final"
+      },
+      {
+        "web": "web/ex-04/ex-04-rpg-key-final.webp",
+        "original": "originals/ex-04/ex-04-rpg-key-final.png",
+        "alt": "ex-04-rpg-key-final"
+      },
+      {
+        "web": "web/ex-04/ex-04-rpg-map-final.webp",
+        "original": "originals/ex-04/ex-04-rpg-map-final.png",
+        "alt": "ex-04-rpg-map-final"
+      },
+      {
+        "web": "web/ex-04/ex-04-rpg-potion-final.webp",
+        "original": "originals/ex-04/ex-04-rpg-potion-final.png",
+        "alt": "ex-04-rpg-potion-final"
+      },
+      {
+        "web": "web/ex-04/ex-04-rpg-sword-final.webp",
+        "original": "originals/ex-04/ex-04-rpg-sword-final.png",
+        "alt": "ex-04-rpg-sword-final"
+      },
+      {
+        "web": "web/ex-04/ex-04-rpg-torch-final.webp",
+        "original": "originals/ex-04/ex-04-rpg-torch-final.png",
+        "alt": "ex-04-rpg-torch-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-04/c-ex-04-rpg-key-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-key-k3-seed1101"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-key-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-key-k3-seed2202"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-key-k3fix-seed3303.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-key-k3fix-seed3303"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-map-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-map-k3-seed1101"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-map-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-map-k3-seed2202"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-map-k3fix-seed3303.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-map-k3fix-seed3303"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-panel-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-panel-k3-seed1101"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-panel-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-panel-k3-seed2202"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-potion-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-potion-k3-seed1101"
+      },
+      {
+        "web": "web/ex-04/c-ex-04-rpg-potion-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-04-rpg-potion-k3-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-05",
+    "n": 5,
+    "title": "סט אסימונים עגולים",
+    "note": "production's own two value-bases share a rim at dE 0.0 because they share the pixels. Re-prompting that rim four times scored 47.0. Placing one approved base scored 0.1. The brief's \"write a rim sentence and keep it identical\" is the wrong tool for a geometric trait.",
+    "finals": [
+      {
+        "web": "web/ex-05/ex-05-token-autumn-final.jpg",
+        "original": "originals/ex-05/ex-05-token-autumn-final.png",
+        "alt": "ex-05-token-autumn-final"
+      },
+      {
+        "web": "web/ex-05/ex-05-token-spring-final.jpg",
+        "original": "originals/ex-05/ex-05-token-spring-final.png",
+        "alt": "ex-05-token-spring-final"
+      },
+      {
+        "web": "web/ex-05/ex-05-token-summer-final.jpg",
+        "original": "originals/ex-05/ex-05-token-summer-final.png",
+        "alt": "ex-05-token-summer-final"
+      },
+      {
+        "web": "web/ex-05/ex-05-token-winter-final.jpg",
+        "original": "originals/ex-05/ex-05-token-winter-final.png",
+        "alt": "ex-05-token-winter-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-05/c-ex-05-motif-autumn-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-05-motif-autumn-k3-seed1101"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-autumn-k3v3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-05-motif-autumn-k3v3-seed1101"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-autumn-k3v3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-05-motif-autumn-k3v3-seed2202"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-spring-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-05-motif-spring-k3-seed1101"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-spring-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-05-motif-spring-k3-seed2202"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-spring-k3v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-05-motif-spring-k3v2-seed1101"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-spring-k3v3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-05-motif-spring-k3v3-seed1101"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-spring-k3v3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-05-motif-spring-k3v3-seed2202"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-summer-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-05-motif-summer-k3-seed1101"
+      },
+      {
+        "web": "web/ex-05/c-ex-05-motif-summer-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-05-motif-summer-k3-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-06",
+    "n": 6,
+    "title": "שלוש מסגרות קלף: פיראטים, ים, בישול",
+    "note": "an empty-centre card is a sparse canvas, so the empty field, the band thickness and the four corners are placed pixels, not a repeated sentence. Re-prompting the centre empty is the analog of re-prompting the rim.",
+    "finals": [
+      {
+        "web": "web/ex-06/ex-06-frame-cooking-final.jpg",
+        "original": "originals/ex-06/ex-06-frame-cooking-final.png",
+        "alt": "ex-06-frame-cooking-final"
+      },
+      {
+        "web": "web/ex-06/ex-06-frame-pirates-final.jpg",
+        "original": "originals/ex-06/ex-06-frame-pirates-final.png",
+        "alt": "ex-06-frame-pirates-final"
+      },
+      {
+        "web": "web/ex-06/ex-06-frame-sea-final.jpg",
+        "original": "originals/ex-06/ex-06-frame-sea-final.png",
+        "alt": "ex-06-frame-sea-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-06/c-ex-06-frame-cooking-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-06-frame-cooking-k3-seed1101"
+      },
+      {
+        "web": "web/ex-06/c-ex-06-frame-cooking-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-06-frame-cooking-k3-seed2202"
+      },
+      {
+        "web": "web/ex-06/c-ex-06-frame-pirates-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-06-frame-pirates-k3-seed1101"
+      },
+      {
+        "web": "web/ex-06/c-ex-06-frame-pirates-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-06-frame-pirates-k3-seed2202"
+      },
+      {
+        "web": "web/ex-06/c-ex-06-frame-sea-k3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-06-frame-sea-k3-seed1101"
+      },
+      {
+        "web": "web/ex-06/c-ex-06-frame-sea-k3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-06-frame-sea-k3-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-07",
+    "n": 7,
+    "title": "שחזור מסגרת מפרומפט קיים",
+    "note": "a production prompt written for two other API refs will spend its IGNORE clauses on the only image you bind. Packed floral density is a starting latent, not a sentence.",
+    "finals": [
+      {
+        "web": "web/ex-07/ex-07-frame-floral-corrected.jpg",
+        "original": "originals/ex-07/ex-07-frame-floral-corrected.png",
+        "alt": "ex-07-frame-floral-corrected"
+      },
+      {
+        "web": "web/ex-07/ex-07-frame-floral-verbatim.jpg",
+        "original": "originals/ex-07/ex-07-frame-floral-verbatim.png",
+        "alt": "ex-07-frame-floral-verbatim"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-07/c-ex-07-frame-floral-corrected-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-07-frame-floral-corrected-v1-seed1101"
+      },
+      {
+        "web": "web/ex-07/c-ex-07-frame-floral-corrected-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-07-frame-floral-corrected-v1-seed2202"
+      },
+      {
+        "web": "web/ex-07/c-ex-07-frame-floral-corrected-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-07-frame-floral-corrected-v2-seed1101"
+      },
+      {
+        "web": "web/ex-07/c-ex-07-frame-floral-corrected-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-07-frame-floral-corrected-v2-seed2202"
+      },
+      {
+        "web": "web/ex-07/c-ex-07-frame-floral-verbatim-seed1101.jpg",
+        "original": null,
+        "alt": "ex-07-frame-floral-verbatim-seed1101"
+      },
+      {
+        "web": "web/ex-07/c-ex-07-frame-floral-verbatim-seed2202.jpg",
+        "original": null,
+        "alt": "ex-07-frame-floral-verbatim-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-08",
+    "n": 8,
+    "title": "מסגרת UI בסגנון RPG",
+    "note": "the empty centre is a same-colour slate hole, not a cream card. Name that in the positive and Kontext leaves the hole empty on txt2img. A 10% rectangle punch then eats the gold rivets; flood the slate field instead.",
+    "finals": [
+      {
+        "web": "web/ex-08/ex-08-rpg-panel-final.jpg",
+        "original": "originals/ex-08/ex-08-rpg-panel-final.png",
+        "alt": "ex-08-rpg-panel-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-08/c-ex-08-rpg-panel-seed1101.jpg",
+        "original": null,
+        "alt": "ex-08-rpg-panel-seed1101"
+      },
+      {
+        "web": "web/ex-08/c-ex-08-rpg-panel-seed2202.jpg",
+        "original": null,
+        "alt": "ex-08-rpg-panel-seed2202"
+      },
+      {
+        "web": "web/ex-08/c-ex-08-rpg-panel-seed3303.jpg",
+        "original": null,
+        "alt": "ex-08-rpg-panel-seed3303"
+      }
+    ]
+  },
+  {
+    "id": "ex-09",
+    "n": 9,
+    "title": "שלושה גראונדים ממשפחה אחת",
+    "note": "the family invariants that survive a new ingredient are the even wash and the wallpaper density. The two traits the sampler will not copy — dusty kitchen chroma on the word \"honey\", and the gold-amber pips — are shared pixels (finding 42), not another sentence.",
+    "finals": [
+      {
+        "web": "web/ex-09/ex-09-bg-grape-final.jpg",
+        "original": "originals/ex-09/ex-09-bg-grape-final.png",
+        "alt": "ex-09-bg-grape-final"
+      },
+      {
+        "web": "web/ex-09/ex-09-bg-honey-final.jpg",
+        "original": "originals/ex-09/ex-09-bg-honey-final.png",
+        "alt": "ex-09-bg-honey-final"
+      },
+      {
+        "web": "web/ex-09/ex-09-bg-olive-final.jpg",
+        "original": "originals/ex-09/ex-09-bg-olive-final.png",
+        "alt": "ex-09-bg-olive-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-09/c-ex-09-bg-grape-s3303-seed3303.jpg",
+        "original": null,
+        "alt": "ex-09-bg-grape-s3303-seed3303"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-grape-seed1101-pips.jpg",
+        "original": null,
+        "alt": "ex-09-bg-grape-seed1101-pips"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-grape-seed1101.jpg",
+        "original": null,
+        "alt": "ex-09-bg-grape-seed1101"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-grape-seed2202.jpg",
+        "original": null,
+        "alt": "ex-09-bg-grape-seed2202"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-honey-seed1101-muted-pips.jpg",
+        "original": null,
+        "alt": "ex-09-bg-honey-seed1101-muted-pips"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-honey-seed1101-muted.jpg",
+        "original": null,
+        "alt": "ex-09-bg-honey-seed1101-muted"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-honey-seed1101.jpg",
+        "original": null,
+        "alt": "ex-09-bg-honey-seed1101"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-honey-seed2202-muted.jpg",
+        "original": null,
+        "alt": "ex-09-bg-honey-seed2202-muted"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-honey-seed2202.jpg",
+        "original": null,
+        "alt": "ex-09-bg-honey-seed2202"
+      },
+      {
+        "web": "web/ex-09/c-ex-09-bg-honey-v2-seed3303.jpg",
+        "original": null,
+        "alt": "ex-09-bg-honey-v2-seed3303"
+      }
+    ]
+  },
+  {
+    "id": "ex-10",
+    "n": 10,
+    "title": "רקע טבע עם גמדים",
+    "note": "the scene that both styles will keep is a centred toadstool with a kettle on the cap and three hat-colours around the stem. Asking for a pour, a sun in the upper-left, and \"no path\" does not survive; asking for three gnomes around a centred mushroom drops a gnome on four of six seeds.",
+    "finals": [
+      {
+        "web": "web/ex-10/ex-10-gnomes-08-bedtime-story-final.jpg",
+        "original": "originals/ex-10/ex-10-gnomes-08-bedtime-story-final.png",
+        "alt": "ex-10-gnomes-08-bedtime-story-final"
+      },
+      {
+        "web": "web/ex-10/ex-10-gnomes-13-toys-of-yesterday-final.jpg",
+        "original": "originals/ex-10/ex-10-gnomes-13-toys-of-yesterday-final.png",
+        "alt": "ex-10-gnomes-13-toys-of-yesterday-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-seed1101.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-seed1101"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-seed2202.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-seed2202"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-seed3303.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-seed3303"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-v1-seed1101"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-v1-seed2202"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-v1-seed3303.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-v1-seed3303"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-v2-seed1101"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-v2-seed2202"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-08-bedtime-story-v2-seed3303.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-08-bedtime-story-v2-seed3303"
+      },
+      {
+        "web": "web/ex-10/c-ex-10-gnomes-13-toys-of-yesterday-seed1101.jpg",
+        "original": null,
+        "alt": "ex-10-gnomes-13-toys-of-yesterday-seed1101"
+      }
+    ]
+  },
+  {
+    "id": "ex-11",
+    "n": 11,
+    "title": "חוף עם ספינת פיראטים בארבעה סגנונות",
+    "note": "v2 rewrote scene.txt (one ship, sails tied like bedrolls, no mountains) and swapped 01-toy-box for 09-soldiers-heroes. The sailing-ship prior still won. The four-up identity that survived is hull-left + sun-right + no people. Do not mix these 1344 winners with the v1 1536 G7 set.",
+    "finals": [
+      {
+        "web": "web/ex-11/ex-11-06-power-card-final.jpg",
+        "original": "originals/ex-11/ex-11-06-power-card-final.png",
+        "alt": "ex-11-06-power-card-final"
+      },
+      {
+        "web": "web/ex-11/ex-11-09-soldiers-heroes-final.jpg",
+        "original": "originals/ex-11/ex-11-09-soldiers-heroes-final.png",
+        "alt": "ex-11-09-soldiers-heroes-final"
+      },
+      {
+        "web": "web/ex-11/ex-11-11-emperors-clothes-final.jpg",
+        "original": "originals/ex-11/ex-11-11-emperors-clothes-final.png",
+        "alt": "ex-11-11-emperors-clothes-final"
+      },
+      {
+        "web": "web/ex-11/ex-11-12-the-die-final.jpg",
+        "original": "originals/ex-11/ex-11-12-the-die-final.png",
+        "alt": "ex-11-12-the-die-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-11/c-ex-11-06-power-card-seed1101.jpg",
+        "original": null,
+        "alt": "ex-11-06-power-card-seed1101"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-06-power-card-seed2202.jpg",
+        "original": null,
+        "alt": "ex-11-06-power-card-seed2202"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-06-power-card-seed3303.jpg",
+        "original": null,
+        "alt": "ex-11-06-power-card-seed3303"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-09-soldiers-heroes-seed1101.jpg",
+        "original": null,
+        "alt": "ex-11-09-soldiers-heroes-seed1101"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-09-soldiers-heroes-seed2202.jpg",
+        "original": null,
+        "alt": "ex-11-09-soldiers-heroes-seed2202"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-09-soldiers-heroes-seed3303.jpg",
+        "original": null,
+        "alt": "ex-11-09-soldiers-heroes-seed3303"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-11-emperors-clothes-seed1101.jpg",
+        "original": null,
+        "alt": "ex-11-11-emperors-clothes-seed1101"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-11-emperors-clothes-seed2202.jpg",
+        "original": null,
+        "alt": "ex-11-11-emperors-clothes-seed2202"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-11-emperors-clothes-seed3303.jpg",
+        "original": null,
+        "alt": "ex-11-11-emperors-clothes-seed3303"
+      },
+      {
+        "web": "web/ex-11/c-ex-11-12-the-die-seed1101.jpg",
+        "original": null,
+        "alt": "ex-11-12-the-die-seed1101"
+      }
+    ]
+  },
+  {
+    "id": "ex-12",
+    "n": 12,
+    "title": "טקסטורה להדפסה",
+    "note": "even wash is a pixel lock, not a sentence. The denim product itself measures vig +16.4. Binding it copies the lighting dome. Flatten the ref, then flatten leather. Parchment copied \"evenness\" into a blank cream until a PIL rag-paper card was the bound image.",
+    "finals": [
+      {
+        "web": "web/ex-12/ex-12-leather-final.jpg",
+        "original": "originals/ex-12/ex-12-leather-final.png",
+        "alt": "ex-12-leather-final"
+      },
+      {
+        "web": "web/ex-12/ex-12-parchment-final.jpg",
+        "original": "originals/ex-12/ex-12-parchment-final.png",
+        "alt": "ex-12-parchment-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-12/c-ex-12-leather-seed1101.jpg",
+        "original": null,
+        "alt": "ex-12-leather-seed1101"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-leather-seed2202.jpg",
+        "original": null,
+        "alt": "ex-12-leather-seed2202"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-leather-v2-seed1101-flat.jpg",
+        "original": null,
+        "alt": "ex-12-leather-v2-seed1101-flat"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-leather-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-12-leather-v2-seed1101"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-leather-v2-seed2202-flat.jpg",
+        "original": null,
+        "alt": "ex-12-leather-v2-seed2202-flat"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-leather-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-12-leather-v2-seed2202"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-leather-v2-seed3303-flat.jpg",
+        "original": null,
+        "alt": "ex-12-leather-v2-seed3303-flat"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-leather-v2-seed3303.jpg",
+        "original": null,
+        "alt": "ex-12-leather-v2-seed3303"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-parchment-seed1101-flat.jpg",
+        "original": null,
+        "alt": "ex-12-parchment-seed1101-flat"
+      },
+      {
+        "web": "web/ex-12/c-ex-12-parchment-seed1101-flatpad.jpg",
+        "original": null,
+        "alt": "ex-12-parchment-seed1101-flatpad"
+      }
+    ]
+  },
+  {
+    "id": "ex-13",
+    "n": 13,
+    "title": "דמות מצילום: סגנון רנסנס",
+    "note": "likeness survived when the graph contained only this woman (face crop + hair crop as `--style-ref`, txt2img from noise). Binding the dusty-trails oil people, or even headless cloth, plus the word \"Renaissance\", painted a porcelain Madonna. Img2img from the photo either froze the snapshot or ate the face.",
+    "finals": [
+      {
+        "web": "web/ex-13/ex-13-renaissance-final.jpg",
+        "original": "originals/ex-13/ex-13-renaissance-final.png",
+        "alt": "ex-13-renaissance-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-13/c-ex-13-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-13-v1-seed1101"
+      },
+      {
+        "web": "web/ex-13/c-ex-13-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-13-v1-seed2202"
+      },
+      {
+        "web": "web/ex-13/c-ex-13-v2-seed3303.jpg",
+        "original": null,
+        "alt": "ex-13-v2-seed3303"
+      }
+    ]
+  },
+  {
+    "id": "ex-14",
+    "n": 14,
+    "title": "דמות מצילום: סגנון סייברפאנק",
+    "note": "finding 92 still holds on a male identity and an aggressive neon/chrome prior. Two crops of THIS photo, and nothing else, as `--style-ref`, txt2img from noise. Binding the sewing-machine card on a second pass did not steal the face (it is a machine, not a painted person) and also did not grow accessories.",
+    "finals": [
+      {
+        "web": "web/ex-14/ex-14-cyberpunk-final.jpg",
+        "original": "originals/ex-14/ex-14-cyberpunk-final.png",
+        "alt": "ex-14-cyberpunk-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-14/c-ex-14-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-14-v1-seed1101"
+      },
+      {
+        "web": "web/ex-14/c-ex-14-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-14-v1-seed2202"
+      },
+      {
+        "web": "web/ex-14/c-ex-14-v2-seed3303.jpg",
+        "original": null,
+        "alt": "ex-14-v2-seed3303"
+      },
+      {
+        "web": "web/ex-14/c-ex-14-v2-seed4404.jpg",
+        "original": null,
+        "alt": "ex-14-v2-seed4404"
+      }
+    ]
+  },
+  {
+    "id": "ex-15",
+    "n": 15,
+    "title": "אותה דמות, שתי פוזות",
+    "note": "finding 92 still holds on a child identity and a full-body cel-shade prior. Two crops of THIS photo as `--style-ref` locked pose A. Pose B as txt2img from the approved anchor (not a light img2img of pose A, not the photo) grew a walk-and-wave while keeping face, hair, polo, and khaki.",
+    "finals": [
+      {
+        "web": "web/ex-15/ex-15-pose-a-anchor.jpg",
+        "original": "originals/ex-15/ex-15-pose-a-anchor.png",
+        "alt": "ex-15-pose-a-anchor"
+      },
+      {
+        "web": "web/ex-15/ex-15-pose-b-final.jpg",
+        "original": "originals/ex-15/ex-15-pose-b-final.png",
+        "alt": "ex-15-pose-b-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-15/c-ex-15-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-15-v1-seed1101"
+      },
+      {
+        "web": "web/ex-15/c-ex-15-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-15-v1-seed2202"
+      },
+      {
+        "web": "web/ex-15/c-ex-15-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-15-v2-seed1101"
+      },
+      {
+        "web": "web/ex-15/c-ex-15-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-15-v2-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-16",
+    "n": 16,
+    "title": "הרצת web-kit מלאה",
+    "note": "the painted Batya standee donates WHO across every five-slot seed. Taking her off the graph stops the clone, but the kit's \"Female, older woman / בתיה המלכה\" prior then paints a gray-haired queen instead of the kitchen man.",
+    "finals": [
+      {
+        "web": "web/ex-16/ex-16-house-01-local-1.jpg",
+        "original": "originals/ex-16/ex-16-house-01-local-1.png",
+        "alt": "ex-16-house-01-local-1"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-16/c-ex-16-house-01-local-seed1101.jpg",
+        "original": null,
+        "alt": "ex-16-house-01-local-seed1101"
+      },
+      {
+        "web": "web/ex-16/c-ex-16-house-01-local-seed2202.jpg",
+        "original": null,
+        "alt": "ex-16-house-01-local-seed2202"
+      },
+      {
+        "web": "web/ex-16/c-ex-16-house-01-local-seed3303.jpg",
+        "original": null,
+        "alt": "ex-16-house-01-local-seed3303"
+      },
+      {
+        "web": "web/ex-16/c-ex-16-id-only-seed1101.jpg",
+        "original": null,
+        "alt": "ex-16-id-only-seed1101"
+      },
+      {
+        "web": "web/ex-16/c-ex-16-id-only-seed2202.jpg",
+        "original": null,
+        "alt": "ex-16-id-only-seed2202"
+      },
+      {
+        "web": "web/ex-16/c-ex-16-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-16-v2-seed1101"
+      },
+      {
+        "web": "web/ex-16/c-ex-16-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-16-v2-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-17",
+    "n": 17,
+    "title": "דמות מלאה בסגנון RPG",
+    "note": "finding 92 still holds on this adult male photo. Two crops of THIS photo as `--style-ref` locked a full-body standee with both feet in frame. Gear as txt2img from that approved lock (finding 98) added cloak, leather, and a sword without replacing the face or cropping the feet. Named painterly RPG words, and later one item-only style sheet, did not outvote the lock's clean cartoon finish.",
+    "finals": [
+      {
+        "web": "web/ex-17/ex-17-rpg-hero-final.jpg",
+        "original": "originals/ex-17/ex-17-rpg-hero-final.png",
+        "alt": "ex-17-rpg-hero-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-17/c-ex-17-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-17-v1-seed1101"
+      },
+      {
+        "web": "web/ex-17/c-ex-17-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-17-v1-seed2202"
+      },
+      {
+        "web": "web/ex-17/c-ex-17-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-17-v2-seed1101"
+      },
+      {
+        "web": "web/ex-17/c-ex-17-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-17-v2-seed2202"
+      },
+      {
+        "web": "web/ex-17/c-ex-17-v3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-17-v3-seed1101"
+      }
+    ]
+  },
+  {
+    "id": "ex-18",
+    "n": 18,
+    "title": "ממקום אמיתי לאיור: img2img",
+    "note": "the shop photo as `--init-image` is the geometry lock (finding 89), but only while the wall pixels stay in the latent. Tiled boot-wall at denoise 0.75 stayed a photograph with Hebrew tags. A dark aisle cut-out plus the waterfall as `--style-ref` at 0.85 let seed 2202 paint an empty hiking shop (ottoman, helmets, ice axe, boot shelves, dusty aisle, no text). Seed 1101 kept the gray slab and leaked a pool.",
+    "finals": [
+      {
+        "web": "web/ex-18/ex-18-place-final.jpg",
+        "original": "originals/ex-18/ex-18-place-final.png",
+        "alt": "ex-18-place-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-18/c-ex-18-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-18-v1-seed1101"
+      },
+      {
+        "web": "web/ex-18/c-ex-18-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-18-v1-seed2202"
+      },
+      {
+        "web": "web/ex-18/c-ex-18-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-18-v2-seed1101"
+      },
+      {
+        "web": "web/ex-18/c-ex-18-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-18-v2-seed2202"
+      },
+      {
+        "web": "web/ex-18/c-ex-18-v3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-18-v3-seed1101"
+      },
+      {
+        "web": "web/ex-18/c-ex-18-v3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-18-v3-seed2202"
+      },
+      {
+        "web": "web/ex-18/c-ex-18-v4-seed1101.jpg",
+        "original": null,
+        "alt": "ex-18-v4-seed1101"
+      },
+      {
+        "web": "web/ex-18/c-ex-18-v4-seed2202.jpg",
+        "original": null,
+        "alt": "ex-18-v4-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-19",
+    "n": 19,
+    "title": "אריח מיקום: בניין אמיתי כארט",
+    "note": "the living-room photo as `--init-image` is the geometry lock. Denoise 0.78 kept a warm photograph. Cropping the poster strip / whiteboard / chrome jamb and raising denoise to 0.85 let seed 1101 paint this same sofa–table–lamp room in the series oil. Seed 2202 painted harder but moved the lamp. Seed 3303 donated a sideboard and a different floor plan.",
+    "finals": [
+      {
+        "web": "web/ex-19/ex-19-location-tile-final.jpg",
+        "original": "originals/ex-19/ex-19-location-tile-final.png",
+        "alt": "ex-19-location-tile-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-19/c-ex-19-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-19-v1-seed1101"
+      },
+      {
+        "web": "web/ex-19/c-ex-19-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-19-v1-seed2202"
+      },
+      {
+        "web": "web/ex-19/c-ex-19-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-19-v2-seed1101"
+      },
+      {
+        "web": "web/ex-19/c-ex-19-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-19-v2-seed2202"
+      },
+      {
+        "web": "web/ex-19/c-ex-19-v2-seed3303.jpg",
+        "original": null,
+        "alt": "ex-19-v2-seed3303"
+      }
+    ]
+  },
+  {
+    "id": "ex-20",
+    "n": 20,
+    "title": "סצנה נרטיבית מלאה",
+    "note": "the filled master template on local Kontext locks a still poker table. Storm, flying cards, and open doors needed a second img2img pass from that composition lock. Extra doorway silhouettes are what \"bursting through the doors\" paints; they survived three denoise levels and a failed PIL tan fill.",
+    "finals": [
+      {
+        "web": "web/ex-20/ex-20-scene-final.jpg",
+        "original": "originals/ex-20/ex-20-scene-final.png",
+        "alt": "ex-20-scene-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-20/c-ex-20-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-20-v1-seed1101"
+      },
+      {
+        "web": "web/ex-20/c-ex-20-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-20-v1-seed2202"
+      },
+      {
+        "web": "web/ex-20/c-ex-20-v2-seed1101.jpg",
+        "original": null,
+        "alt": "ex-20-v2-seed1101"
+      },
+      {
+        "web": "web/ex-20/c-ex-20-v2-seed2202.jpg",
+        "original": null,
+        "alt": "ex-20-v2-seed2202"
+      },
+      {
+        "web": "web/ex-20/c-ex-20-v3-seed1101.jpg",
+        "original": null,
+        "alt": "ex-20-v3-seed1101"
+      },
+      {
+        "web": "web/ex-20/c-ex-20-v3-seed2202.jpg",
+        "original": null,
+        "alt": "ex-20-v3-seed2202"
+      },
+      {
+        "web": "web/ex-20/c-ex-20-v4-seed1101.jpg",
+        "original": null,
+        "alt": "ex-20-v4-seed1101"
+      },
+      {
+        "web": "web/ex-20/c-ex-20-v4-seed2202.jpg",
+        "original": null,
+        "alt": "ex-20-v4-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-21",
+    "n": 21,
+    "title": "גב קלף סימטרי",
+    "note": "naming \"perfect 180-degree rotational symmetry\" still paints a point-up pentagram. The measured file is a PIL lock: keep the top half, `Image.rotate(180)`, blend the seam, stamp one 8-point star over the figure-8 core the seam left behind.",
+    "finals": [
+      {
+        "web": "web/ex-21/ex-21-card-back-final.jpg",
+        "original": "originals/ex-21/ex-21-card-back-final.png",
+        "alt": "ex-21-card-back-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-21/c-ex-21-v1-seed1101.jpg",
+        "original": null,
+        "alt": "ex-21-v1-seed1101"
+      },
+      {
+        "web": "web/ex-21/c-ex-21-v1-seed2202.jpg",
+        "original": null,
+        "alt": "ex-21-v1-seed2202"
+      },
+      {
+        "web": "web/ex-21/c-ex-21-v1-seed3303.jpg",
+        "original": null,
+        "alt": "ex-21-v1-seed3303"
+      }
+    ]
+  },
+  {
+    "id": "ex-22",
+    "n": 22,
+    "title": "קלף מנה: ריבוי רפרנסים עם תפקידים",
+    "note": "role-split + \"IGNORE its food\" held shakshuka (eggs in red sauce, no fish). Dry dishes painted a teal well and a mutated rim. Honey-cake seed 2202 cloned the bound hraymeh. Winners are a PIL plate lock: stamp food onto one empty house-plate PNG.",
+    "finals": [
+      {
+        "web": "web/ex-22/ex-22-dish-honey-cake-final.jpg",
+        "original": "originals/ex-22/ex-22-dish-honey-cake-final.png",
+        "alt": "ex-22-dish-honey-cake-final"
+      },
+      {
+        "web": "web/ex-22/ex-22-dish-shakshuka-final.jpg",
+        "original": "originals/ex-22/ex-22-dish-shakshuka-final.png",
+        "alt": "ex-22-dish-shakshuka-final"
+      },
+      {
+        "web": "web/ex-22/ex-22-dish-vine-leaves-final.jpg",
+        "original": "originals/ex-22/ex-22-dish-vine-leaves-final.png",
+        "alt": "ex-22-dish-vine-leaves-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-22/c-ex-22-v1-honey-cake-seed1101.jpg",
+        "original": null,
+        "alt": "ex-22-v1-honey-cake-seed1101"
+      },
+      {
+        "web": "web/ex-22/c-ex-22-v1-honey-cake-seed2202.jpg",
+        "original": null,
+        "alt": "ex-22-v1-honey-cake-seed2202"
+      },
+      {
+        "web": "web/ex-22/c-ex-22-v1-shakshuka-seed1101.jpg",
+        "original": null,
+        "alt": "ex-22-v1-shakshuka-seed1101"
+      },
+      {
+        "web": "web/ex-22/c-ex-22-v1-shakshuka-seed2202.jpg",
+        "original": null,
+        "alt": "ex-22-v1-shakshuka-seed2202"
+      },
+      {
+        "web": "web/ex-22/c-ex-22-v1-vine-leaves-seed1101.jpg",
+        "original": null,
+        "alt": "ex-22-v1-vine-leaves-seed1101"
+      },
+      {
+        "web": "web/ex-22/c-ex-22-v1-vine-leaves-seed2202.jpg",
+        "original": null,
+        "alt": "ex-22-v1-vine-leaves-seed2202"
+      },
+      {
+        "web": "web/ex-22/c-ex-22-v2-honey-cake-seed3303.jpg",
+        "original": null,
+        "alt": "ex-22-v2-honey-cake-seed3303"
+      }
+    ]
+  },
+  {
+    "id": "ex-23",
+    "n": 23,
+    "title": "ארט קופסה בשכבות",
+    "note": "empty upper-third of a packed town is an empty well (65, 135). Named keyed lime did not hold on B; a sky-field flood did. The same named lime *did* hold as a character studio field on C. Ellipse wash painted poster skies; impasto wash recovered oil.",
+    "finals": [
+      {
+        "web": "web/ex-23/ex-23-composite-final.jpg",
+        "original": "originals/ex-23/ex-23-composite-final.png",
+        "alt": "ex-23-composite-final"
+      },
+      {
+        "web": "web/ex-23/ex-23-layer-a-final.jpg",
+        "original": "originals/ex-23/ex-23-layer-a-final.png",
+        "alt": "ex-23-layer-a-final"
+      },
+      {
+        "web": "web/ex-23/ex-23-layer-b-final.webp",
+        "original": "originals/ex-23/ex-23-layer-b-final.png",
+        "alt": "ex-23-layer-b-final"
+      },
+      {
+        "web": "web/ex-23/ex-23-layer-c-final.webp",
+        "original": "originals/ex-23/ex-23-layer-c-final.png",
+        "alt": "ex-23-layer-c-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-23/c-ex-23-v1-layer-a-seed1101.jpg",
+        "original": null,
+        "alt": "ex-23-v1-layer-a-seed1101"
+      },
+      {
+        "web": "web/ex-23/c-ex-23-v1-layer-a-seed2202.jpg",
+        "original": null,
+        "alt": "ex-23-v1-layer-a-seed2202"
+      },
+      {
+        "web": "web/ex-23/c-ex-23-v1-layer-b-seed1101.jpg",
+        "original": null,
+        "alt": "ex-23-v1-layer-b-seed1101"
+      },
+      {
+        "web": "web/ex-23/c-ex-23-v1-layer-b-seed2202.jpg",
+        "original": null,
+        "alt": "ex-23-v1-layer-b-seed2202"
+      },
+      {
+        "web": "web/ex-23/c-ex-23-v1-layer-c-seed1101.jpg",
+        "original": null,
+        "alt": "ex-23-v1-layer-c-seed1101"
+      },
+      {
+        "web": "web/ex-23/c-ex-23-v1-layer-c-seed2202.jpg",
+        "original": null,
+        "alt": "ex-23-v1-layer-c-seed2202"
+      },
+      {
+        "web": "web/ex-23/c-ex-23-v2-layer-a-seed3303.jpg",
+        "original": null,
+        "alt": "ex-23-v2-layer-a-seed3303"
+      },
+      {
+        "web": "web/ex-23/c-ex-23-v2-layer-a-seed4404.jpg",
+        "original": null,
+        "alt": "ex-23-v2-layer-a-seed4404"
+      }
+    ]
+  },
+  {
+    "id": "ex-24",
+    "n": 24,
+    "title": "סט חפצי RPG",
+    "note": "one item-only loot crop is enough to lock a five-prop cartoon set. Words do not kill the style-ref's contact ellipse; PIL does. The key is the prop that tries to leave (charcoal, off-body sparkle, then a glowing bow, then a second object). Warm-brown metal plus a bow-hole punch pulled it back.",
+    "finals": [
+      {
+        "web": "web/ex-24/ex-24-prop-chest-final.jpg",
+        "original": "originals/ex-24/ex-24-prop-chest-final.png",
+        "alt": "ex-24-prop-chest-final"
+      },
+      {
+        "web": "web/ex-24/ex-24-prop-key-final.jpg",
+        "original": "originals/ex-24/ex-24-prop-key-final.png",
+        "alt": "ex-24-prop-key-final"
+      },
+      {
+        "web": "web/ex-24/ex-24-prop-potion-final.jpg",
+        "original": "originals/ex-24/ex-24-prop-potion-final.png",
+        "alt": "ex-24-prop-potion-final"
+      },
+      {
+        "web": "web/ex-24/ex-24-prop-scroll-final.jpg",
+        "original": "originals/ex-24/ex-24-prop-scroll-final.png",
+        "alt": "ex-24-prop-scroll-final"
+      },
+      {
+        "web": "web/ex-24/ex-24-prop-shield-final.jpg",
+        "original": "originals/ex-24/ex-24-prop-shield-final.png",
+        "alt": "ex-24-prop-shield-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-24/c-ex-24-v1-chest-seed1101.jpg",
+        "original": null,
+        "alt": "ex-24-v1-chest-seed1101"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-chest-seed2202.jpg",
+        "original": null,
+        "alt": "ex-24-v1-chest-seed2202"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-key-seed1101.jpg",
+        "original": null,
+        "alt": "ex-24-v1-key-seed1101"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-key-seed2202.jpg",
+        "original": null,
+        "alt": "ex-24-v1-key-seed2202"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-potion-seed1101.jpg",
+        "original": null,
+        "alt": "ex-24-v1-potion-seed1101"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-potion-seed2202.jpg",
+        "original": null,
+        "alt": "ex-24-v1-potion-seed2202"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-scroll-seed1101.jpg",
+        "original": null,
+        "alt": "ex-24-v1-scroll-seed1101"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-scroll-seed2202.jpg",
+        "original": null,
+        "alt": "ex-24-v1-scroll-seed2202"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-shield-seed1101.jpg",
+        "original": null,
+        "alt": "ex-24-v1-shield-seed1101"
+      },
+      {
+        "web": "web/ex-24/c-ex-24-v1-shield-seed2202.jpg",
+        "original": null,
+        "alt": "ex-24-v1-shield-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-25",
+    "n": 25,
+    "title": "מסכמה לרנדר: אזור לוח",
+    "note": "Engine: FLUX.1-Kontext-dev Q4_K_S on G5 (192.168.0.27:8188)",
+    "finals": [
+      {
+        "web": "web/ex-25/ex-25-zone-balcony-final.jpg",
+        "original": "originals/ex-25/ex-25-zone-balcony-final.png",
+        "alt": "ex-25-zone-balcony-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-25/c-ex-25-cand-seed1101.jpg",
+        "original": null,
+        "alt": "ex-25-cand-seed1101"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-cand-seed2202.jpg",
+        "original": null,
+        "alt": "ex-25-cand-seed2202"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-cand-seed3303.jpg",
+        "original": null,
+        "alt": "ex-25-cand-seed3303"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-locked-seed1101.jpg",
+        "original": null,
+        "alt": "ex-25-locked-seed1101"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-locked-seed2202.jpg",
+        "original": null,
+        "alt": "ex-25-locked-seed2202"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-locked-seed3303.jpg",
+        "original": null,
+        "alt": "ex-25-locked-seed3303"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-v1-balcony-seed1101.jpg",
+        "original": null,
+        "alt": "ex-25-v1-balcony-seed1101"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-v1-balcony-seed2202.jpg",
+        "original": null,
+        "alt": "ex-25-v1-balcony-seed2202"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-v1-balcony-seed3303.jpg",
+        "original": null,
+        "alt": "ex-25-v1-balcony-seed3303"
+      },
+      {
+        "web": "web/ex-25/c-ex-25-v2-balcony-seed1101.jpg",
+        "original": null,
+        "alt": "ex-25-v2-balcony-seed1101"
+      }
+    ]
+  },
+  {
+    "id": "ex-26",
+    "n": 26,
+    "title": "לוח TOP VIEW שלם",
+    "note": "Engine: FLUX.1-Kontext-dev Q4_K_S on G5 (192.168.0.27:8188)",
+    "finals": [
+      {
+        "web": "web/ex-26/ex-26-board-final.jpg",
+        "original": "originals/ex-26/ex-26-board-final.png",
+        "alt": "ex-26-board-final"
+      },
+      {
+        "web": "web/ex-26/ex-26-stage-connectors-final.jpg",
+        "original": "originals/ex-26/ex-26-stage-connectors-final.png",
+        "alt": "ex-26-stage-connectors-final"
+      },
+      {
+        "web": "web/ex-26/ex-26-stage-terrain-final.jpg",
+        "original": "originals/ex-26/ex-26-stage-terrain-final.png",
+        "alt": "ex-26-stage-terrain-final"
+      },
+      {
+        "web": "web/ex-26/ex-26-stage-zones-final.jpg",
+        "original": "originals/ex-26/ex-26-stage-zones-final.png",
+        "alt": "ex-26-stage-zones-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-26/c-ex-26-terrain-seed1101.jpg",
+        "original": null,
+        "alt": "ex-26-terrain-seed1101"
+      },
+      {
+        "web": "web/ex-26/c-ex-26-terrain-seed2202.jpg",
+        "original": null,
+        "alt": "ex-26-terrain-seed2202"
+      },
+      {
+        "web": "web/ex-26/c-ex-26-terrain-v2-seed3303.jpg",
+        "original": null,
+        "alt": "ex-26-terrain-v2-seed3303"
+      },
+      {
+        "web": "web/ex-26/c-ex-26-zones-restamp-1101.jpg",
+        "original": null,
+        "alt": "ex-26-zones-restamp-1101"
+      },
+      {
+        "web": "web/ex-26/c-ex-26-zones-seed1101.jpg",
+        "original": null,
+        "alt": "ex-26-zones-seed1101"
+      },
+      {
+        "web": "web/ex-26/c-ex-26-zones-seed2202.jpg",
+        "original": null,
+        "alt": "ex-26-zones-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-27",
+    "n": 27,
+    "title": "שרשרת מוצר: מצילום מסחרי לקלף",
+    "note": "Engine: FLUX.1-Kontext-dev Q4_K_S on G5 (192.168.0.27:8188)",
+    "finals": [
+      {
+        "web": "web/ex-27/ex-27-card-ps5-final.jpg",
+        "original": "originals/ex-27/ex-27-card-ps5-final.png",
+        "alt": "ex-27-card-ps5-final"
+      },
+      {
+        "web": "web/ex-27/ex-27-card-sunglasses-final.jpg",
+        "original": "originals/ex-27/ex-27-card-sunglasses-final.png",
+        "alt": "ex-27-card-sunglasses-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-27/c-ex-27-v1-ps5-seed1101.jpg",
+        "original": null,
+        "alt": "ex-27-v1-ps5-seed1101"
+      },
+      {
+        "web": "web/ex-27/c-ex-27-v1-ps5-seed2202.jpg",
+        "original": null,
+        "alt": "ex-27-v1-ps5-seed2202"
+      },
+      {
+        "web": "web/ex-27/c-ex-27-v1-sunglasses-seed1101.jpg",
+        "original": null,
+        "alt": "ex-27-v1-sunglasses-seed1101"
+      },
+      {
+        "web": "web/ex-27/c-ex-27-v1-sunglasses-seed2202.jpg",
+        "original": null,
+        "alt": "ex-27-v1-sunglasses-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-28",
+    "n": 28,
+    "title": "חבילת בית: דמות + סמל + אייקון + מנה",
+    "note": "Engine: FLUX.1-Kontext-dev Q4_K_S on G5 (192.168.0.27:8188)",
+    "finals": [
+      {
+        "web": "web/ex-28/ex-28-tapuz-crest-final.jpg",
+        "original": "originals/ex-28/ex-28-tapuz-crest-final.png",
+        "alt": "ex-28-tapuz-crest-final"
+      },
+      {
+        "web": "web/ex-28/ex-28-tapuz-dish-final.jpg",
+        "original": "originals/ex-28/ex-28-tapuz-dish-final.png",
+        "alt": "ex-28-tapuz-dish-final"
+      },
+      {
+        "web": "web/ex-28/ex-28-tapuz-icon-final.jpg",
+        "original": "originals/ex-28/ex-28-tapuz-icon-final.png",
+        "alt": "ex-28-tapuz-icon-final"
+      },
+      {
+        "web": "web/ex-28/ex-28-tapuz-portrait-final.jpg",
+        "original": "originals/ex-28/ex-28-tapuz-portrait-final.png",
+        "alt": "ex-28-tapuz-portrait-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-28/c-ex-28-locked-dish-seed1101.jpg",
+        "original": null,
+        "alt": "ex-28-locked-dish-seed1101"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-locked-dish-seed2202.jpg",
+        "original": null,
+        "alt": "ex-28-locked-dish-seed2202"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-stamped-crest-seed1101.jpg",
+        "original": null,
+        "alt": "ex-28-stamped-crest-seed1101"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-stamped-crest-seed2202.jpg",
+        "original": null,
+        "alt": "ex-28-stamped-crest-seed2202"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-v1-crest-seed1101.jpg",
+        "original": null,
+        "alt": "ex-28-v1-crest-seed1101"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-v1-crest-seed2202.jpg",
+        "original": null,
+        "alt": "ex-28-v1-crest-seed2202"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-v1-dish-seed1101.jpg",
+        "original": null,
+        "alt": "ex-28-v1-dish-seed1101"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-v1-dish-seed2202.jpg",
+        "original": null,
+        "alt": "ex-28-v1-dish-seed2202"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-v1-icon-seed1101.jpg",
+        "original": null,
+        "alt": "ex-28-v1-icon-seed1101"
+      },
+      {
+        "web": "web/ex-28/c-ex-28-v1-icon-seed2202.jpg",
+        "original": null,
+        "alt": "ex-28-v1-icon-seed2202"
+      }
+    ]
+  },
+  {
+    "id": "ex-29",
+    "n": 29,
+    "title": "אינפוגרפיקת line-art + באסטר כשלים",
+    "note": "Engine: FLUX.1-Kontext-dev Q4_K_S on G5 (192.168.0.27:8188)",
+    "finals": [
+      {
+        "web": "web/ex-29/ex-29-asset-1-final.jpg",
+        "original": "originals/ex-29/ex-29-asset-1-final.png",
+        "alt": "ex-29-asset-1-final"
+      },
+      {
+        "web": "web/ex-29/ex-29-asset-2-final.jpg",
+        "original": "originals/ex-29/ex-29-asset-2-final.png",
+        "alt": "ex-29-asset-2-final"
+      },
+      {
+        "web": "web/ex-29/ex-29-infographic-final.jpg",
+        "original": "originals/ex-29/ex-29-infographic-final.png",
+        "alt": "ex-29-infographic-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-29/c-ex-29-locked-shakshuka-seed1101.jpg",
+        "original": null,
+        "alt": "ex-29-locked-shakshuka-seed1101"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-locked-shakshuka-seed2202.jpg",
+        "original": null,
+        "alt": "ex-29-locked-shakshuka-seed2202"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-v1-infographic-seed1101-traced.jpg",
+        "original": null,
+        "alt": "ex-29-v1-infographic-seed1101-traced"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-v1-infographic-seed1101.jpg",
+        "original": null,
+        "alt": "ex-29-v1-infographic-seed1101"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-v1-infographic-seed2202-traced.jpg",
+        "original": null,
+        "alt": "ex-29-v1-infographic-seed2202-traced"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-v1-infographic-seed2202.jpg",
+        "original": null,
+        "alt": "ex-29-v1-infographic-seed2202"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-v1-infographic-seed3303-traced.jpg",
+        "original": null,
+        "alt": "ex-29-v1-infographic-seed3303-traced"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-v1-infographic-seed3303.jpg",
+        "original": null,
+        "alt": "ex-29-v1-infographic-seed3303"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-v1-lantern-seed1101-flat.jpg",
+        "original": null,
+        "alt": "ex-29-v1-lantern-seed1101-flat"
+      },
+      {
+        "web": "web/ex-29/c-ex-29-v1-lantern-seed1101.jpg",
+        "original": null,
+        "alt": "ex-29-v1-lantern-seed1101"
+      }
+    ]
+  },
+  {
+    "id": "ex-30",
+    "n": 30,
+    "title": "הרכבה חופשית: מיני-משחק",
+    "note": "Engine: FLUX.1-Kontext-dev Q4_K_S on G5 (192.168.0.27:8188)",
+    "finals": [
+      {
+        "web": "web/ex-30/ex-30-back-final.jpg",
+        "original": "originals/ex-30/ex-30-back-final.png",
+        "alt": "ex-30-back-final"
+      },
+      {
+        "web": "web/ex-30/ex-30-board-final.jpg",
+        "original": "originals/ex-30/ex-30-board-final.png",
+        "alt": "ex-30-board-final"
+      },
+      {
+        "web": "web/ex-30/ex-30-character-final.jpg",
+        "original": "originals/ex-30/ex-30-character-final.png",
+        "alt": "ex-30-character-final"
+      },
+      {
+        "web": "web/ex-30/ex-30-frame-final.jpg",
+        "original": "originals/ex-30/ex-30-frame-final.png",
+        "alt": "ex-30-frame-final"
+      },
+      {
+        "web": "web/ex-30/ex-30-icon-final.jpg",
+        "original": "originals/ex-30/ex-30-icon-final.png",
+        "alt": "ex-30-icon-final"
+      },
+      {
+        "web": "web/ex-30/ex-30-tile-final.jpg",
+        "original": "originals/ex-30/ex-30-tile-final.png",
+        "alt": "ex-30-tile-final"
+      }
+    ],
+    "candidates": [
+      {
+        "web": "web/ex-30/c-ex-30-v1-back-seed1101.jpg",
+        "original": null,
+        "alt": "ex-30-v1-back-seed1101"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-back-seed2202.jpg",
+        "original": null,
+        "alt": "ex-30-v1-back-seed2202"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-board-seed1101.jpg",
+        "original": null,
+        "alt": "ex-30-v1-board-seed1101"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-board-seed2202.jpg",
+        "original": null,
+        "alt": "ex-30-v1-board-seed2202"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-character-seed1101.jpg",
+        "original": null,
+        "alt": "ex-30-v1-character-seed1101"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-character-seed2202.jpg",
+        "original": null,
+        "alt": "ex-30-v1-character-seed2202"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-frame-seed1101.jpg",
+        "original": null,
+        "alt": "ex-30-v1-frame-seed1101"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-frame-seed2202.jpg",
+        "original": null,
+        "alt": "ex-30-v1-frame-seed2202"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-icon-seed1101-flat.jpg",
+        "original": null,
+        "alt": "ex-30-v1-icon-seed1101-flat"
+      },
+      {
+        "web": "web/ex-30/c-ex-30-v1-icon-seed1101.jpg",
+        "original": null,
+        "alt": "ex-30-v1-icon-seed1101"
+      }
+    ]
+  }
+]
